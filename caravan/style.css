@@ -147,6 +147,7 @@ main {
   border-radius: 3px;
   line-height: 30px;
 }
+
 .sidebar {
   width: 230px;
 }
@@ -167,6 +168,7 @@ main {
   border-bottom: 1px solid #f7f7f7;
   margin-bottom: 5px;
 }
+
 .popular-text:last-child,
 .categories-text:last-child {
   margin: 0;
@@ -226,3 +228,5 @@ footer {
 .footer-text {
   color: #fff;
 }
+
+
